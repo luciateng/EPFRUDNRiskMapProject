@@ -30,3 +30,7 @@ Spectrum of Ultraviolet Radiation : https://ieeexplore.ieee.org/stamp/stamp.jsp?
 •	Create a grid map of suns angle for the entire world using https://pysolar.readthedocs.io/en/latest/
 
 • PM2.5: https://sedac.ciesin.columbia.edu/data/set/sdei-global-annual-gwr-pm2-5-modis-misr-seawifs-aod/data-download
+
+### Rasters
+
+![image](https://user-images.githubusercontent.com/80332606/111798793-b2d4e480-88ca-11eb-8b50-2ac32017f31f.png)
