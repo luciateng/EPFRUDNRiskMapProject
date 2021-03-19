@@ -34,3 +34,11 @@ Spectrum of Ultraviolet Radiation : https://ieeexplore.ieee.org/stamp/stamp.jsp?
 ### Rasters
 
 ![image](https://user-images.githubusercontent.com/80332606/111798793-b2d4e480-88ca-11eb-8b50-2ac32017f31f.png)
+
+### HOW TO GET HELP:
+
+Contact the author by electronic mail : lucia.teng@epfedu.fr or paul.claviere-schiele@epfedu.fr
+WHO MAINTAINS AND CONTRIBUTES TO THE PROJECT:
+
+Contributor : Paul Clavière-Schiele and Teng Lucia
+The project will not be updated after the Final Version release.
