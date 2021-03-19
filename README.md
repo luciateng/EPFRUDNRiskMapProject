@@ -35,6 +35,16 @@ Spectrum of Ultraviolet Radiation : https://ieeexplore.ieee.org/stamp/stamp.jsp?
 
 ![image](https://user-images.githubusercontent.com/80332606/111798793-b2d4e480-88ca-11eb-8b50-2ac32017f31f.png)
 
+### STEPS:
+
+**
+
+### USEFULNESS:
+
+Run the code with several parameters, one can choose the date and hour. The final risk map will be given in output. 
+
+![Untitled Diagram (5)](https://user-images.githubusercontent.com/80332606/111800276-14498300-88cc-11eb-98e6-dadc10c40abc.png)
+
 ### HOW TO GET HELP:
 
 Contact the author by electronic mail : lucia.teng@epfedu.fr or paul.claviere-schiele@epfedu.fr
