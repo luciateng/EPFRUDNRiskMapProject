@@ -37,7 +37,27 @@ Spectrum of Ultraviolet Radiation : https://ieeexplore.ieee.org/stamp/stamp.jsp?
 
 ### STEPS:
 
-**
+-	We start by normalizing the raster representing the population density and the raster depicting the pollution from PM2.5. 
+
+![image](https://user-images.githubusercontent.com/80332606/112130716-0dbb5400-8bc9-11eb-9066-345d54bdc98f.png)
+
+![image](https://user-images.githubusercontent.com/80332606/112130724-114edb00-8bc9-11eb-9024-9d35c9061f19.png)
+
+-	Then we create a raster representing the value of the solar angle on earth for a given day
+
+![image](https://user-images.githubusercontent.com/80332606/112130736-157af880-8bc9-11eb-8510-65b5e5b17c05.png)
+
+-	We cross the data of the pollution and of the population density to obtain a normalized raster representing the most vulnerable places at every time. The value from the two previous rasters are multiplied, with this method we are obtaining a wider range of value which is handier to use afterward. 
+
+![image](https://user-images.githubusercontent.com/80332606/112130761-19a71600-8bc9-11eb-8ee6-414d0042e249.png)
+
+-	Then we cross this raster with the one giving the solar angle value at a given date. With this final raster, we can see the most vulnerable places in the world at a given date because the value of the angle of the incoming solar UVs. 
+
+![image](https://user-images.githubusercontent.com/80332606/112130781-1f046080-8bc9-11eb-8967-d9d08f408c2a.png)
+
+![image](https://user-images.githubusercontent.com/80332606/112130793-2166ba80-8bc9-11eb-95b5-81030e08463f.png)
+
+-	On this final result, we can see the places where the solar UVs will cause the highest damages to the population.
 
 ### USEFULNESS:
 
